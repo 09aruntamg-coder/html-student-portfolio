@@ -39,6 +39,12 @@ const projects = [
         link: "#",
         tags: ["HTML", "CSS", "JavaScript"],
     },
+    {
+        title: "Shipping Manipulation",
+        description:  "Object-oriented C++ console application simulating an e-commerce shipping system with multiple classes, encapsulation, and workflow logic.",
+        link: "https://github.com/09aruntamg-coder/Shipping",
+        tags: ["C++", "OOP","Console Application"],
+    },
     // {
     //     title: "Next Project",
     //     description: "Coming soon — I'll add the next thing I build right here.",

@@ -110,6 +110,13 @@ a:focus-visible {
     color: var(--accent);
 }
 
+.nav__logo-img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%; /* makes it round (optional) */
+    object-fit: cover;
+}
+
 #theme-toggle {
     background: var(--surface);
     color: var(--text);
